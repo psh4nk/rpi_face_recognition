@@ -18,3 +18,5 @@
 5. Once you have a dataset/[your name] folder populated with images of your face, run find-best-face.py to determine which images are the best candidates for face recognition.
 
 6. Repeat this process for any other faces you want your application to recognize.
+
+[Add face recognition with Raspberry Pi](https://www.raspberrypi.com/news/add-face-recognition-with-raspberry-pi-hackspace-38/)

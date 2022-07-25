@@ -2,7 +2,12 @@
 
 ## Instructions
 
-1. Run xrdp.sh.
+1. Run xrdp.sh on your Raspberry Pi:
+
+    ```bash
+    chmod u+x ./xrdp.sh
+    ./xrdp.sh
+    ```
 
 2. Update capture-face.py and find-best.face.py to replace all instances of "Chuck" with your name.
 
